@@ -2,4 +2,4 @@ Shape,Width,Height,X,Y,Color,Rad,XX,YY
 rect,200,120,0,0,pink,,,
 circle,,,250,50,blue,51,,
 line,,,100,50,purple,,200,150
-ellipse,,,250,150,red,,50,50
+ellipse,,,250,50,red,,150,50
