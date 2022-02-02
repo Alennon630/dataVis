@@ -1,2 +1,2 @@
-Shape,Width,Height,X,Y,Color
-rect,200,120,0,0,pink
+Shape,Width,Height,X,Y,Color,Rad
+rect,200,120,0,0,pink,
